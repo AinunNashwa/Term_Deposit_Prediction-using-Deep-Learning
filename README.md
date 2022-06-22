@@ -62,7 +62,7 @@
 ![term_deposit vs personal_loan](https://user-images.githubusercontent.com/106902414/175009335-6fc032af-4e93-4689-9604-9f7a9bda11a7.png)
 
 
-`TensorBoard`
+`TensorBoard`: The training accuracy and the training loss
 
 ![Tensorboard_1](https://user-images.githubusercontent.com/106902414/175011378-06269461-bfe4-4665-8c26-4a97ce9a47e4.png)
 
