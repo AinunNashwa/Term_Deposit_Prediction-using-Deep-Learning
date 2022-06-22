@@ -29,7 +29,7 @@
 ![model_2](https://user-images.githubusercontent.com/106902414/175005001-69c50a0f-f4fb-4b65-92e8-22832fed1836.PNG)
 
 
-`Model`: 
+`Model Architecture`: 
 
 <img src="plot and result/model_3.png" alt="model" style="width:350px;height:500px;">
 
