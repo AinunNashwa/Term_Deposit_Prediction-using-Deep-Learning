@@ -64,12 +64,18 @@
 
 `TensorBoard`
 
-
-![Tensorboard_1](https://user-images.githubusercontent.com/106902414/175007299-51d16572-5d38-4b4d-8d8c-e1e39d746ed8.png)
-
+![Tensorboard_1](https://user-images.githubusercontent.com/106902414/175011378-06269461-bfe4-4665-8c26-4a97ce9a47e4.png)
 
 ### Discussion
-1) 
+1) During data inspection, the target dtype is not in object, so we change into object
+2) During data cleaning, there are outliers and also null values, need to impute the null value using `Simple Imputer`
+3) Before features selection we change all the categorical data into numeric using `Label Endcoder`
+4) Not to forget to change the target data into unique label using `OneHotEncoder`
+5) Also fit transform the features using `StandardScaler`
+6) For model development using `Sequential`
+7) The training dataset and testing dataset can be visualize using `Tensorboard` 
+8) The accuracy produced quite high which is 90%
+9) For further improvement:`Add more dense layer`,`Increase number of epochs`,`Using Advanced Deep Learning`
 
 ### Credits
 `Dataset`
