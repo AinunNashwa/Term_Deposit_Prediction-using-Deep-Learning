@@ -47,16 +47,20 @@
 
 `Training Data` example for continuous data:
 
-<img src="plot and result/customer_age.png" alt="model" style="width:300px;height:250px;">
+![customer_age](https://user-images.githubusercontent.com/106902414/175008522-0096dc41-6166-4217-81a2-8e685c8e71e4.png)
 
 
 `Training Data` example for categorical data:
 
-<img src="plot and result/education.png" alt="model" style="width:300px;height:250px;">
+![education](https://user-images.githubusercontent.com/106902414/175008968-7722f4f1-3ad6-4d42-8ded-c33949b403a7.png)
+
+
 
 `Training Data` example for relationship between the features and the target:
 
-<img src="plot and result/term_deposit vs personal_loan.png" alt="model" style="width:300px;height:250px;">
+
+![term_deposit vs personal_loan](https://user-images.githubusercontent.com/106902414/175009335-6fc032af-4e93-4689-9604-9f7a9bda11a7.png)
+
 
 `TensorBoard`
 
