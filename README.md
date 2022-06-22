@@ -31,7 +31,7 @@
 
 `Model`: 
 
-
+<img src="plot and result/ConfusionMatrixDisplay.png" alt="model" style="width:300px;height:250px;">
 
 
 
