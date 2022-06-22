@@ -31,7 +31,7 @@
 
 `Model`: 
 
-<img src="plot and result/ConfusionMatrixDisplay.png" alt="model" style="width:300px;height:250px;">
+<img src="plot and result/model_3.png" alt="model" style="width:350px;height:500px;">
 
 
 
@@ -42,19 +42,26 @@
 
 `Confusion_Matrix` 
 
-
+![ConfusionMatrixDisplay](https://user-images.githubusercontent.com/106902414/175007451-2d60ebb1-fde1-4cc3-bc90-78a1004b1ee4.png)
 
 
 `Training Data` example for continuous data:
 
-
+<img src="plot and result/customer_age.png" alt="model" style="width:300px;height:250px;">
 
 
 `Training Data` example for categorical data:
 
+<img src="plot and result/education.png" alt="model" style="width:300px;height:250px;">
 
 `Training Data` example for relationship between the features and the target:
 
+<img src="plot and result/term_deposit vs personal_loan.png" alt="model" style="width:300px;height:250px;">
+
+`TensorBoard`
+
+
+![Tensorboard_1](https://user-images.githubusercontent.com/106902414/175007299-51d16572-5d38-4b4d-8d8c-e1e39d746ed8.png)
 
 
 ### Discussion
