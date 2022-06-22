@@ -31,7 +31,7 @@
 
 `Model`: 
 
-![model_3](https://user-images.githubusercontent.com/106902414/175003917-3ac39209-45a0-4894-9f35-0a056a7d0016.png)
+
 
 
 
@@ -42,20 +42,20 @@
 
 `Confusion_Matrix` 
 
-![ConfusionMatrixDisplay](https://user-images.githubusercontent.com/106902414/175004527-3722b3e2-f625-44fd-b91c-b363220538cd.png)
+
 
 
 `Training Data` example for continuous data:
 
-![customer_age](https://user-images.githubusercontent.com/106902414/175004568-a3edd933-508c-4a2a-a5ee-ebaada1ba076.png)
+
 
 
 `Training Data` example for categorical data:
-![education](https://user-images.githubusercontent.com/106902414/175004598-fd6bbe31-996f-4619-8256-f5516b83e739.png)
+
 
 `Training Data` example for relationship between the features and the target:
 
-![term_deposit vs communication_type](https://user-images.githubusercontent.com/106902414/175004781-29392a9e-04cd-4a45-a6a4-2be37773e89f.png)
+
 
 ### Discussion
 1) 
